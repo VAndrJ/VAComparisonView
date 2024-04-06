@@ -1,0 +1,16 @@
+PODS:
+  - VAComparisonView (1.0.0)
+
+DEPENDENCIES:
+  - VAComparisonView (from `../`)
+
+EXTERNAL SOURCES:
+  VAComparisonView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VAComparisonView: 64735cb781956457d79a470792f510664a20c558
+
+PODFILE CHECKSUM: 8ec361517117cb9aca5e5f706ec7c0f234ec6f0e
+
+COCOAPODS: 1.15.2
