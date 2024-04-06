@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .target(
             name: "VAComparisonView",
-            path: "VAComparisonView/Classes",
-            dependencies: []
+            dependencies: [],
+            path: "VAComparisonView/Classes"
         ),
     ]
 )
