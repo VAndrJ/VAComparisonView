@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/VAComparisonView.svg?style=flat)](https://cocoapods.org/pods/VAComparisonView)
 
 
-[![Language](https://img.shields.io/badge/language-Swift%205.9-orangered.svg?style=flat)](https://www.swift.org)
+[![Language](https://img.shields.io/badge/language-Swift%205.7-orangered.svg?style=flat)](https://www.swift.org)
 [![SPM](https://img.shields.io/badge/SPM-compatible-limegreen.svg?style=flat)](https://github.com/apple/swift-package-manager)
 
 
@@ -19,6 +19,19 @@
 
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+
+Example code:
+
+
+```swift
+let comparisonView = VAComparisonView(
+    first: FirstView(),
+    second: SecondView()
+)
+```
+
+
 
 ## Requirements
 
